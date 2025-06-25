@@ -1,5 +1,6 @@
 # Coffee Sales Analysis Dashboard 
-[Click Here to Watch the Dashboard Walkthrough↗️](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
+<!-- [Click Here to Watch the Dashboard Walkthrough↗️](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
+-->
 
 ## 📌 Project Overview
 This Power BI dashboard provides an in-depth analysis of coffee sales across the United States for the years 2023 and 2024. The dashboard is designed to help businesses understand customer behavior, product preferences, regional performance, and time-based sales trends.
@@ -47,9 +48,9 @@ The report is structured into three interactive views:
 - ![Product View](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Prod%20View%20Page.png)
 - ![Customer View](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Cust%20View%20Page.png)
 
-## 📽️ Reference Video
+<!--## 📽️ Reference Video
 [Watch the Dashboard Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
-
+-->
 Click the above link to watch the video walkthrough of the dashboard.
 
 ## 📂 Project Files
@@ -59,15 +60,16 @@ Click the above link to watch the video walkthrough of the dashboard.
 
 
 
-## 💡 Want to see more of my work? 
+<!-- ## 💡 Want to see more of my work? 
 If you have any questions or feedback, feel free to connect with me on LinkedIn or leave a comment.
 - 👨‍💻 All of my projects are available at <a href="https://sairish.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/venkatasairishitha" target="_blank">LinkedIn Page</a>
 - 🌐 <a href="https://github.com/sairish" target="_blank">GitHub Page</a>
-- 🌏 [`Other Dashboards -->`]  
+- 🌏 [`Other Dashboards`]  
       &nbsp;&nbsp;&nbsp;&nbsp; [👨‍💼 HR Executive DASHBOARD](https://github.com/sairish/HR-Executive-Dashboard)<br>
       &nbsp;&nbsp;&nbsp;&nbsp; [🏪 SUPER STORES SALES DASHBOARD](https://github.com/sairish/US-SUPER-STORES-SALES-ANALYSIS-DASHBOARD)<br>
       &nbsp;&nbsp;&nbsp;&nbsp; [🚗 CAR SALES DASHBOARD](https://github.com/sairish/US-Car-Sales-Dashboard)
+-->
 ## 📧 Contact 
-- 📫 How to reach me **mailtosairishitha@gmail.com**
+- 📫 How to reach me **narendra.ravuri1@gmail.com**
 
